@@ -1,6 +1,1 @@
-ABC <- c(0,2,3)
-
-.
-# changes
-
-rrr <- data_fram()
+ABC <- c(1,2,3)
